@@ -1,2 +1,2 @@
 # hello-word
-just another repository
+Hola! Me llamo Agustina Pizarro y me gusta comer Pizza. Y tambien me gustan los ponis.
